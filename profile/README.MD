@@ -1,5 +1,3 @@
-# Zaphiro Technologies
-
 <img src="https://zaphiro.ch/wp-content/uploads/2020/02/zaphiro-technologies-smart-grid-logo-color.svg" alt="Zaphiro
 Technologies" width="300">
 
