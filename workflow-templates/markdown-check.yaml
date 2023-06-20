@@ -1,9 +1,5 @@
 name: Markdown Check
 
-concurrency:
-  group: ${{ github.ref_name }}-markdown
-  cancel-in-progress: true
-
 on:
   push:
     branches: [ $default-branch ]
