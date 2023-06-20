@@ -1,0 +1,9 @@
+{
+    "name": "Zaphiro Markdown Checker",
+    "description": "Zaphiro Markdown Checker starter workflow.",
+    "iconName": "octicon markdown",
+    "categories": [
+        "Automation",
+        "utilities"
+    ]
+}

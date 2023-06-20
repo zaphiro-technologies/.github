@@ -1,0 +1,17 @@
+name: Markdown Check
+
+concurrency:
+  group: ${{ github.ref_name }}-markdown
+  cancel-in-progress: true
+
+on:
+  push:
+    branches: [ $default-branch ]
+  pull_request_target:
+    branches: [ $default-branch ]
+
+
+jobs:
+  markdown-checker:
+    uses: zaphiro-technologies/github-workflows/.github/workflows/markdown.yaml@main
+    secrets: inherit
