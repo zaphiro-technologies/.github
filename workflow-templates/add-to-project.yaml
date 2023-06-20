@@ -4,8 +4,10 @@ on:
     types:
       - labeled
   pull_request:
+    branches: [ $default-branch ]
     types:
       - labeled
+  workflow_call:
 
 jobs:
   add-to-project:
