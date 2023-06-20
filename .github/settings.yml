@@ -28,7 +28,7 @@ labels:
     color: C94EBD
     description: This PR won't be reported in the changelog.
   - name: refactor
-    color: ededed
+    color: 71CAB5
     description: This issue/PR relates to refactoring.
   - name: security
     color: e4e669

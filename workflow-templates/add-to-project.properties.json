@@ -1,0 +1,9 @@
+{
+    "name": "Zaphiro Project Management",
+    "description": "Zaphiro Project Management starter workflow.",
+    "iconName": "octicon projecticon",
+    "categories": [
+        "Automation",
+        "utilities"
+    ]
+}
