@@ -1,0 +1,38 @@
+###
+
+repository:
+  # See https://developer.github.com/v3/repos/#edit for all available settings.
+  has_issues: true
+  has_wiki: false
+  has_pages: false
+  default_branch: main
+  allow_squash_merge: true
+  allow_merge_commit: false
+  allow_rebase_merge: false
+
+labels:
+  # States
+  - name: ci
+    color: 37DCD9
+    description: This issue/PR is about continuous integration.
+  - name: documentation
+    color: 0075ca
+    description: This issue/PR is about documentation.
+  - name: bug
+    color: fbca04
+    description: This issue/PR relates to a bug.
+  - name: feature
+    color: 006b75
+    description: This issue/PR relates to a feature request.
+  - name: skip-changelog
+    color: C94EBD
+    description: This PR won't be reported in the changelog.
+  - name: refactor
+    color: ededed
+    description: This issue/PR relates to refactoring.
+  - name: security
+    color: e4e669
+    description: This issue/PR relates to security.
+  - name: dependencies
+    color: 0366d6
+    description: This issue/PR relates to dependencies.

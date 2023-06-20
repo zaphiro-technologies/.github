@@ -1,0 +1,40 @@
+name: 🐞 Bug Report
+description: Create a report about something that is not working
+labels: ["bug"]
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this bug report hasn't been already submitted by someone by looking through other open/closed issues
+  - type: textarea
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected Behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Steps To Reproduce
+      description: |
+        We ❤ code! So best thing you can do is creating a PR with a test that
+        reproduce the issue :)
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Exceptions (if any)
+      description: Include the exception you get when facing this issue.
+    validations:
+      required: false
+  - type: input
+    attributes:
+      label: Version 
+    validations:
+      required: false
