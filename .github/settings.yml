@@ -13,16 +13,16 @@ repository:
 labels:
   # States
   - name: ci
-    color: 37DCD9
+    color: 006b75
     description: This issue/PR is about continuous integration.
   - name: documentation
     color: 0075ca
     description: This issue/PR is about documentation.
   - name: bug
-    color: fbca04
+    color: d73a4a
     description: This issue/PR relates to a bug.
   - name: feature
-    color: 006b75
+    color: a2eeef
     description: This issue/PR relates to a feature request.
   - name: skip-changelog
     color: C94EBD
