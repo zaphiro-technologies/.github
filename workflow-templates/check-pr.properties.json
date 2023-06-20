@@ -1,0 +1,9 @@
+{
+    "name": "Zaphiro PR Management",
+    "description": "Zaphiro PR Management starter workflow.",
+    "iconName": "octicon git-pull-request",
+    "categories": [
+        "Automation",
+        "utilities"
+    ]
+}
