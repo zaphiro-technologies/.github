@@ -1,7 +1,6 @@
-# {PR title}
-
 <!-- Thank you for submitting a pull request to our repo. -->
 
+- [ ] You've used a title that is enough descriptive for a release note.
 - [ ] You've included unit or integration tests for your change, where applicable.
 - [ ] You've included inline docs for your change, where applicable.
 - [ ] There's an open issue for the PR that you are making
@@ -10,10 +9,12 @@
 
 <!-- Once all that is done, you're ready to go. Open the PR with the content below. -->
 
-Summary of the changes (Less than 80 chars)
+## Summary
+
+<!-- Summary of the changes (Less than 80 chars) -->
 
 ## Description
 
-{Detail}
+<!-- details -->
 
-Fixes #{bug number} (in this specific format)
+Fixes #{bug number} <!-- use this specific format or issues won't be correctly linked to the PR --> 
