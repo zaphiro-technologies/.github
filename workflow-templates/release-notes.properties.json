@@ -1,0 +1,9 @@
+{
+    "name": "Zaphiro Release Notes Generator",
+    "description": "Zaphiro Release Notes Generator starter workflow.",
+    "iconName": "octicon versions",
+    "categories": [
+        "Automation",
+        "utilities"
+    ]
+}
