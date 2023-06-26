@@ -1,0 +1,10 @@
+name: Cleanup Caches
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+    release-notes:
+        uses: zaphiro-technologies/github-workflows/.github/workflows/clean-up-cache.yaml@main
+        secrets: inherit
