@@ -1,6 +1,6 @@
 {
-    "name": "Zaphiro Cleanup temp files",
-    "description": "Zaphiro Cleanup temp files starter workflow.",
+    "name": "Zaphiro Clean Up temp files",
+    "description": "Zaphiro Clean Up temp files starter workflow.",
     "iconName": "octicon trash",
     "categories": [
         "Automation",
