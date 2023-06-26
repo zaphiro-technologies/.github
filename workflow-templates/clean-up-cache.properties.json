@@ -1,0 +1,9 @@
+{
+    "name": "Zaphiro Cleanup Caches",
+    "description": "Zaphiro Cleanup Caches starter workflow.",
+    "iconName": "octicon trash",
+    "categories": [
+        "Automation",
+        "utilities"
+    ]
+}
