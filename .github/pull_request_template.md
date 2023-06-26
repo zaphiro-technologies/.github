@@ -1,20 +1,25 @@
-<!-- Thank you for submitting a pull request to our repo. -->
-
-- [ ] You've used a title that is enough descriptive for a release note.
-- [ ] You've included unit or integration tests for your change, where applicable.
-- [ ] You've included inline docs for your change, where applicable.
-- [ ] There's an open issue for the PR that you are making
-    If you'd like to propose a new feature or change,
-    please open an issue to discuss the change or find an existing issue.
-
-<!-- Once all that is done, you're ready to go. Open the PR with the content below. -->
-
-## Summary
-
-<!-- Summary of the changes (Less than 80 chars) -->
+<!-- Thank you for submitting a pull request to our repository. -->
 
 ## Description
 
-<!-- details -->
+<!-- Please provide a brief description of the changes in this pull request (max 80 chars). -->
 
-Fixes #{bug number} <!-- use this specific format or issues won't be correctly linked to the PR --> 
+## Changes Made
+
+<!-- Please list the changes that you made in this pull request. -->
+
+## Related Issues
+
+<!-- Please list any related issues or pull requests.
+Fixes #{bug number}  - use this specific format or issues won't be correctly linked to the PR
+-->
+
+## Checklist
+
+<!-- Please check off the following items by putting an "x" in the box: -->
+
+- [ ] I have used a PR title that is descriptive enough for a release note.
+- [ ] I have tested these changes locally.
+- [ ] I have added appropriate tests or updated existing tests.
+- [ ] I have tested these changes on a dedicated VM or a customer VM [name of the VM]
+- [ ] I have added appropriate documentation or updated existing documentation.
