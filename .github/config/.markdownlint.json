@@ -12,7 +12,8 @@
         "allowed_elements": [
             "a",
             "img",
-            "br"
+            "br",
+            "h1"
         ]
     },
     "MD014": false,
