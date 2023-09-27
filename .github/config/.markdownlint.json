@@ -16,11 +16,6 @@
         ]
     },
     "MD014": false,
-    "MD043": {
-        "headings": [
-          "*"
-        ]
-    },
     "MD046": {
         "style": "consistent"
     }
