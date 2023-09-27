@@ -6,7 +6,6 @@ on:
   pull_request_target:
     branches: [ "main" ]
 
-
 jobs:
   markdown-checker:
     uses: zaphiro-technologies/github-workflows/.github/workflows/markdown.yaml@main
