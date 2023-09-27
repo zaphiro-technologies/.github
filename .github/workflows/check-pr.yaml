@@ -1,0 +1,21 @@
+name: Validate PR
+
+concurrency:
+  group: ${{ github.ref_name }}-validate-pr
+  cancel-in-progress: true
+
+on:
+  pull_request:
+    branches: [ "main" ]
+    types:
+      - opened
+      - reopened
+      - edited
+      - synchronize
+      - labeled
+      - unlabeled
+
+jobs:
+ check-pr:
+    uses: zaphiro-technologies/github-workflows/.github/workflows/check-pr.yaml@main
+    secrets: inherit
