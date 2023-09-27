@@ -17,10 +17,10 @@
     },
     "MD014": false,
     "MD043": {
-    "headings": [
-      "*"
-    ]
-  }
+        "headings": [
+          "*"
+        ]
+    },
     "MD046": {
         "style": "consistent"
     }
