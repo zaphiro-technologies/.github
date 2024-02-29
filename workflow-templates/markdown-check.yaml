@@ -3,7 +3,7 @@ name: Markdown Check
 on:
   push:
     branches: [ $default-branch ]
-  pull_request_target:
+  pull_request:
     branches: [ $default-branch ]
 
 
