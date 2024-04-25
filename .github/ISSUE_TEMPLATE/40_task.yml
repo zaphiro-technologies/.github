@@ -1,0 +1,16 @@
+name: 📅 Task
+description: A task to be performed
+labels: ["task"]
+title: "[Task]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure this task hasn't been already submitted by someone by looking through other open/closed issues
+  - type: textarea
+    attributes:
+      label: Task description
+      description: |
+        What is the task to be performed?
+    validations:
+      required: false
