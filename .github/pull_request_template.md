@@ -21,5 +21,5 @@ Fixes #{bug number}  - use this specific format or issues won't be correctly lin
 - [ ] I have used a PR title that is descriptive enough for a release note.
 - [ ] I have tested these changes locally.
 - [ ] I have added appropriate tests or updated existing tests.
-- [ ] I have tested these changes on a dedicated VM or a customer VM [name of the VM]
+- [ ] I have tested these changes on a cluster [name of the cluster] / customer [name of the customer]
 - [ ] I have added appropriate documentation or updated existing documentation.
