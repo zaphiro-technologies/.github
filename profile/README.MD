@@ -1,4 +1,4 @@
-<img src="https://zaphiro.ch/wp-content/uploads/2020/02/zaphiro-technologies-smart-grid-logo-color.svg" alt="Zaphiro
+<img src="https://zaphiro.ch/wp-content/uploads/ZAPHIRO_logo_MAIN_RVB_NEG.svg" alt="Zaphiro
 Technologies" width="300">
 
 Zaphiro is a leading Swiss deep tech company in Smart Grid solutions.
